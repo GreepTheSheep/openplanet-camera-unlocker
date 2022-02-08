@@ -1,0 +1,8 @@
+[meta]
+name = "Camera Unlocker"
+author = "Greep"
+category = "Map Editor"
+
+version = "1.0"
+
+blocks = [ "Plugin_CamUnlock" ]
