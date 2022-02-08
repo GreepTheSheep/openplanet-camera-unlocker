@@ -2,6 +2,7 @@
 name = "Camera Unlocker"
 author = "Greep"
 category = "Map Editor"
+siteid = 172
 
 version = "1.0"
 
